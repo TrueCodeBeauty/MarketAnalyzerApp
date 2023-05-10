@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcHeqgF4XJfMbdkU4hvG/qs9++o8LbE41fHhWp574qmmNU5GjF63IpTbXU7zneLKdMu/MLDLFo6IkXDH/EupGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saldina\\Desktop\\MarketAnalyzerApplication\\MarketAnalyzerApp\\MarketAnalyzerApp\\MarketAnalyzerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saldina\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Saldina\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
